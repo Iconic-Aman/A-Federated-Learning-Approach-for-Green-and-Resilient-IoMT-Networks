@@ -17,7 +17,7 @@ This project focuses on improving energy efficiency in the **Internet of Medical
 - **Support Vector Machine (SVM)** → Robust but computationally heavy  
 
 ## 🔧 Experimental Setup  
-- **Dataset**: [MHEALTH Dataset](https://archive.ics.uci.edu/dataset/319/mhealth+dataset)  
+- **Dataset**: [MHEALTH Dataset](https://archive.ics.uci.edu/static/public/319/mhealth+dataset.zip)  
 - **Features**: Motion & vital sign data from multiple sensors  
 - **Metrics Evaluated**:  
   - **Accuracy vs. Energy Consumption**  
@@ -41,16 +41,16 @@ This project focuses on improving energy efficiency in the **Internet of Medical
 ## 📁 Code & Notebooks  
 | Model | Colab Link |  
 |--------|--------------------------------|  
-| **Decision Tree** | [🔗 Link](https://colab.research.google.com/drive/1h9KKEpr4kGLB8c-7bvPM71kuB-l5GVtb?usp=sharing) |  
-| **Neural Network (MLP)** | [🔗 Link](https://colab.research.google.com/drive/1qUbnWByD4EhkFGj07klxFYZy4POXpxYi?usp=sharing) |  
-| **Support Vector Machine (SVM)** | [🔗 Link](https://colab.research.google.com/drive/1I4vTdeOuHo0t_TH8sKN-Lrb2fNKfwqqF) |  
-| **Random Forest** | [🔗 Link](https://colab.research.google.com/drive/17bk8xCc-OW70KkKLaHSvXV7dI8lYkXWS?usp=sharing) |  
+| **Decision Tree** | [🔗 Link](https://drive.google.com/file/d/1ttDMWIfSUdGjcNArtvUyV82hQ1FdaBvv/view?usp=sharing) |  
+| **Neural Network (MLP)** | [🔗 Link](https://drive.google.com/file/d/1jMG7m1hdv5wRS649D5mDuLO7wHRoKAPh/view?usp=drive_link) |  
+| **Support Vector Machine (SVM)** | [🔗 Link](https://drive.google.com/file/d/1Pze84BQsqeZoibPOnzy4k5APISvmQ1Tr/view?usp=sharing) |  
+| **Random Forest** | [🔗 Link](https://drive.google.com/file/d/1t6DTyV1Rcbh65Ufz274C8a72jxuITzu-/view?usp=drive_link) |  
 
 ## 📡 Performance on Different Networks  
-- **WiFi (100 Mbps)** → [🔗 Colab](https://colab.research.google.com/drive/1Pj5LZInNcmnaWbn1mQEsj_YsyIgUs_zw?usp=sharing)  
-- **5G (500 Mbps)** → [🔗 Colab](https://colab.research.google.com/drive/1sw-G3JqWHOMjMYwrEiZb3VzfSsg1FAZw?usp=sharing)  
-- **4G (20 Mbps)** → [🔗 Colab](https://colab.research.google.com/drive/1abtwJPq6vBrEOc3YQrjWPfyYJBYnKST1?usp=sharing)  
-- **Bluetooth (2 Mbps)** → [🔗 Colab](https://colab.research.google.com/drive/1cxsxvSzJl4-uHTZKa4Kg3l5gQiCJD-B_?usp=sharing)  
+- **WiFi (100 Mbps)** → [🔗 Colab](https://drive.google.com/file/d/1uuoAS-rFHHeqk4Kgas4HJWvIVJ5LQO0A/view?usp=drive_link)  
+- **5G (500 Mbps)** → [🔗 Colab](https://drive.google.com/file/d/1qLsk8wXfSIgyjvIsJ_I_vH5-0WMzIgGS/view?usp=drive_link)  
+- **4G (20 Mbps)** → [🔗 Colab](https://drive.google.com/file/d/1ICaoKqLmWeg5Fkv0Tq3RgSoweYsdi89f/view?usp=drive_link)  
+- **Bluetooth (2 Mbps)** → [🔗 Colab](https://drive.google.com/file/d/1t6DTyV1Rcbh65Ufz274C8a72jxuITzu-/view?usp=drive_link)  
 
 ## 🔮 Future Work  
 - Testing on **other medical datasets** for better generalization  
